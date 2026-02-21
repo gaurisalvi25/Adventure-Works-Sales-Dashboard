@@ -86,8 +86,9 @@ The project focuses on revenue growth, profit margins, customer distribution, an
 
 ## 📬 Author
 Gauri Salvi 
+---
 Engineering Student | Data Analytics | Business Intelligence | Cybersecurity
 
----
 
-## 📂 Repository Structure
+
+
